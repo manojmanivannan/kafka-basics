@@ -32,3 +32,9 @@ you will see a prompt where you can write your message
 ### Consuming messages
 
 - `bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning`
+
+> **Note**: Download kafka binaries from [here](https://kafka.apache.org/downloads)
+
+# Building a Simple Application
+![App schematic](images/simple_kafka_app.png)
+
